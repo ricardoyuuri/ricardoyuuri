@@ -1,8 +1,21 @@
-## Olá! Eu sou o Ricardo Yuri!👋 
+<div>
+ <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="600" width="100%"/> 
+</div>   
 
-- 👀 Estou em busca de um estágio para me aprofundar mais na área de tecnologia!
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP
-- 💞️ Meu foco são as áreas de gestão de projetos, análise de sistemas e QA.
+<div align="center">
+
+## Olá! Eu sou o Ricardo Yuri!👋
+
+</div>
+
+
+   Seja bem vindo! Me chamo Ricardo e tenho 19 anos. Atualmente estou cursando o 3° semestre de Análise e Desenvolvimento de Sistemas na FIAP! Estudando JAVA, DevOps, IA, TS, JS, React, C# e entre outros. Sempre quis trabalhar com algo que me desse a possibilidade de mudar o mundo e de me encorajar a continuar em busca de novos desafios e experiências inovadoras, e encontrei essa oportunidade na área de tecnologia.
+
+ Estou em busca de um estágio que possa me trazer novas experiências da área tecnológica e do mundo empresarial em si! Me considero uma pessoa focada, dedicada e principalmente organizada! Gosto de ser desafiado por onde eu passo, pois assim eu posso provar o meu valor! Quero descobrir mais e mais do mundo e expandir meu conhecimento crescendo na área que eu sei que pode abrir milhares de portas para mim.
+
+- 🔍 Estou em busca de um estágio para me aprofundar mais na área de tecnologia!
+- 📔 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 📌 Meu foco são as áreas de gestão de projetos, análise de sistemas e QA.
 
 ##
 
@@ -11,14 +24,18 @@
 
 ##
 
+## Aqui estão algumas das linguagens em que eu possuo conhecimento:💻
+
 <div style='display: inline_block'>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30"/> 
 </div>    
 
 ##
+
+## Conecte-se comigo😊
 
 <div style='display: inline_block'>
   <a href="https://www.linkedin.com/in/ricardo-yuri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
