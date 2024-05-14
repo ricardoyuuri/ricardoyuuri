@@ -5,7 +5,8 @@
 - 💞️ Meu foco são as áreas de gestão de projetos, análise de sistemas e QA.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoyuuri&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoyuuri&layout=compact&show_icons=true&theme=tokyonight)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoyuuri&layout=compact&show_icons=true&theme=tokyonight" height="195" />
+
 
 ##
 
