@@ -4,10 +4,9 @@
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP
 - 💞️ Meu foco são as áreas de gestão de projetos, análise de sistemas e QA.
 
-<div style='display: inline_block'>
- <img src="https://github-readme-stats.vercel.app/api?username=ricardoyuuri&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoyuuri&show_icons=true&theme=tokyonight) 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoyuuri&layout=compact&show_icons=true&theme=tokyonight" height="195"/>
-</div>
+
 
 ##
 
