@@ -9,7 +9,7 @@
 </div>
 
 
-   Seja bem vindo! Me chamo Ricardo e tenho 19 anos. Atualmente estou cursando o 3° semestre de Análise e Desenvolvimento de Sistemas na FIAP! Estudando JAVA, DevOps, IA, TS, JS, React, C# e entre outros. Sempre quis trabalhar com algo que me desse a possibilidade de mudar o mundo e de me encorajar a continuar em busca de novos desafios e experiências inovadoras, e encontrei essa oportunidade na área de tecnologia.
+   Seja bem vindo! Me chamo Ricardo e tenho 19 anos. Sou formado me Análise e Desenvolvimento de Sistemas na FIAP! Sempre quis trabalhar com algo que me desse a possibilidade de mudar o mundo e de me encorajar a continuar em busca de novos desafios e experiências inovadoras, e encontrei essa oportunidade na área de tecnologia.
 
  Estou em busca de um estágio que possa me trazer novas experiências da área tecnológica e do mundo empresarial em si! Me considero uma pessoa focada, dedicada e principalmente organizada! Gosto de ser desafiado por onde eu passo, pois assim eu posso provar o meu valor! Quero descobrir mais e mais do mundo e expandir meu conhecimento crescendo na área que eu sei que pode abrir milhares de portas para mim.
 
